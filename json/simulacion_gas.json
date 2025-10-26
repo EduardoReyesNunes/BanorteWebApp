@@ -1,0 +1,66 @@
+[
+  {
+    "Num_Contrato": "G3334445556",
+    "Nombre_Cliente": "ROBERTO SANCHEZ",
+    "Direccion": "CALLE 2 #201, CANCÚN, QR",
+    "Compañia": "MAXIGAS",
+    "Periodo_Facturado": "01/Feb/2025 - 28/Feb/2025",
+    "Monto_a_Pagar": 820.45,
+    "Fecha_Limite": "2025-03-01",
+    "Consumo_Unidad": "Litros",
+    "Consumo_Total": 215,
+    "Tarifa": "Comercial",
+    "Detalle_Consumo": [
+      { "fecha_recarga": "2025-02-05", "litros": 100 },
+      { "fecha_recarga": "2025-02-20", "litros": 115 }
+    ]
+  },
+  {
+    "Num_Contrato": "G7778889990",
+    "Nombre_Cliente": "LUISA HERNANDEZ",
+    "Direccion": "PASEO DE LA LOMA #15, AGUASCALIENTES, AGS",
+    "Compañia": "NATURGY",
+    "Periodo_Facturado": "01/Dic/2024 - 31/Ene/2025",
+    "Monto_a_Pagar": 1500.90,
+    "Fecha_Limite": "2025-02-10",
+    "Consumo_Unidad": "GJ",
+    "Consumo_Total": 18.5,
+    "Tarifa": "Doméstica Alto Consumo",
+    "Detalle_Consumo": [
+      { "mes": "2024-12", "consumo_gj": 9.2 },
+      { "mes": "2025-01", "consumo_gj": 9.3 }
+    ]
+  },
+  {
+    "Num_Contrato": "G1112223334",
+    "Nombre_Cliente": "GABRIEL RUIZ",
+    "Direccion": "AV. 5 DE MAYO #30, QUERÉTARO, QRO",
+    "Compañia": "VANGAS",
+    "Periodo_Facturado": "01/Mar/2025 - 31/Mar/2025",
+    "Monto_a_Pagar": 45.75,
+    "Fecha_Limite": "2025-04-05",
+    "Consumo_Unidad": "m³",
+    "Consumo_Total": 5,
+    "Tarifa": "Básica",
+    "Detalle_Consumo": [
+      { "dia": "2025-03-15", "lectura_final_m3": 125, "consumo_m3": 2 },
+      { "dia": "2025-03-31", "lectura_final_m3": 128, "consumo_m3": 3 }
+    ]
+  },
+  {
+    "Num_Contrato": "G5556667778",
+    "Nombre_Cliente": "ANDREA VAZQUEZ",
+    "Direccion": "CALLE HIDALGO #45, TIJUANA, BC",
+    "Compañia": "ZETA GAS",
+    "Periodo_Facturado": "15/Feb/2025 - 15/Abr/2025",
+    "Monto_a_Pagar": 510.30,
+    "Fecha_Limite": "2025-04-20",
+    "Consumo_Unidad": "m³",
+    "Consumo_Total": 88,
+    "Tarifa": "Doméstica",
+    "Detalle_Consumo": [
+      { "mes": "2025-02", "consumo_m3": 35 },
+      { "mes": "2025-03", "consumo_m3": 53 }
+    ]
+  }
+]

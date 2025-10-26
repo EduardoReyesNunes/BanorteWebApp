@@ -1,0 +1,71 @@
+[
+  {
+    "Num_Servicio": "019123456789",
+    "Nombre_Cliente": "ANA MARTINEZ",
+    "Direccion": "CALLE PINO #10, MONTERREY, NL",
+    "Periodo_Facturado": "01/Dic/2024 - 31/Ene/2025",
+    "Monto_a_Pagar": 585.50,
+    "Fecha_Limite": "2025-02-28",
+    "Consumo_kWh": 320,
+    "Tarifa": "01",
+    "Detalle_Consumo_kWh": [
+      { "periodo": "2024-12", "consumo": 150 },
+      { "periodo": "2025-01", "consumo": 170 }
+    ]
+  },
+  {
+    "Num_Servicio": "019987654321",
+    "Nombre_Cliente": "JUAN PEREZ",
+    "Direccion": "AV. REFORMA #50, CDMX",
+    "Periodo_Facturado": "01/Nov/2024 - 31/Dic/2024",
+    "Monto_a_Pagar": 890.00,
+    "Fecha_Limite": "2025-01-20",
+    "Consumo_kWh": 450,
+    "Tarifa": "DAC",
+    "Detalle_Consumo_kWh": [
+      { "periodo": "2024-11", "consumo": 200 },
+      { "periodo": "2024-12", "consumo": 250 }
+    ]
+  },
+  {
+    "Num_Servicio": "019456789123",
+    "Nombre_Cliente": "MARIA GONZALEZ",
+    "Direccion": "BLVD. UNIVERSIDAD #245, GUADALAJARA, JAL",
+    "Periodo_Facturado": "01/Dic/2024 - 31/Ene/2025",
+    "Monto_a_Pagar": 720.25,
+    "Fecha_Limite": "2025-02-25",
+    "Consumo_kWh": 380,
+    "Tarifa": "01",
+    "Detalle_Consumo_kWh": [
+      { "periodo": "2024-12", "consumo": 180 },
+      { "periodo": "2025-01", "consumo": 200 }
+    ]
+  },
+  {
+    "Num_Servicio": "019789123456",
+    "Nombre_Cliente": "CARLOS LOPEZ",
+    "Direccion": "AV. INSURGENTES #789, PUEBLA, PUE",
+    "Periodo_Facturado": "15/Nov/2024 - 15/Ene/2025",
+    "Monto_a_Pagar": 1120.75,
+    "Fecha_Limite": "2025-02-15",
+    "Consumo_kWh": 520,
+    "Tarifa": "DAC",
+    "Detalle_Consumo_kWh": [
+      { "periodo": "2024-11", "consumo": 240 },
+      { "periodo": "2024-12", "consumo": 280 }
+    ]
+  },
+  {
+    "Num_Servicio": "019321654987",
+    "Nombre_Cliente": "SOFIA RAMIREZ",
+    "Direccion": "CALLE OLIVO #34, MERIDA, YUC",
+    "Periodo_Facturado": "01/Ene/2025 - 31/Ene/2025",
+    "Monto_a_Pagar": 420.80,
+    "Fecha_Limite": "2025-02-20",
+    "Consumo_kWh": 210,
+    "Tarifa": "01",
+    "Detalle_Consumo_kWh": [
+      { "periodo": "2025-01", "consumo": 210 }
+    ]
+  }
+]

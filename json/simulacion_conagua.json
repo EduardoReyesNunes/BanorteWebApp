@@ -1,0 +1,80 @@
+[
+  {
+    "Folio": "CONA240801001",
+    "Nombre_Usuario": "ROBERTO HERNANDEZ",
+    "Direccion_Predio": "AV. ACUEDUCTO #123, LEÓN, GTO",
+    "Periodo_Facturado": "01/Jul/2024 - 31/Jul/2024",
+    "Monto_a_Pagar": 485.60,
+    "Fecha_Limite_Pago": "2024-08-25",
+    "Consumo_m3": 42,
+    "Tipo_Servicio": "DOMÉSTICO",
+    "Detalle_Consumo_m3": [
+      { "periodo": "2024-07", "consumo": 42 }
+    ],
+    "Medidor": "MTR-784512",
+    "Zona_Hidrológica": "LERMA_SANTIAGO"
+  },
+  {
+    "Folio": "CONA240801002",
+    "Nombre_Usuario": "PATRICIA FLORES",
+    "Direccion_Predio": "CALZADA INDEPENDENCIA #456, MORELIA, MICH",
+    "Periodo_Facturado": "01/Jul/2024 - 31/Jul/2024",
+    "Monto_a_Pagar": 320.40,
+    "Fecha_Limite_Pago": "2024-08-20",
+    "Consumo_m3": 28,
+    "Tipo_Servicio": "DOMÉSTICO",
+    "Detalle_Consumo_m3": [
+      { "periodo": "2024-07", "consumo": 28 }
+    ],
+    "Medidor": "MTR-784513",
+    "Zona_Hidrológica": "BALSAS"
+  },
+  {
+    "Folio": "CONA240801003",
+    "Nombre_Usuario": "INDUSTRIAS ACUATECH SA DE CV",
+    "Direccion_Predio": "CARRETERA NACIONAL KM 12.5, TOLUCA, MEX",
+    "Periodo_Facturado": "01/Jun/2024 - 30/Jun/2024",
+    "Monto_a_Pagar": 12580.75,
+    "Fecha_Limite_Pago": "2024-08-15",
+    "Consumo_m3": 1250,
+    "Tipo_Servicio": "INDUSTRIAL",
+    "Detalle_Consumo_m3": [
+      { "periodo": "2024-06", "consumo": 1250 }
+    ],
+    "Medidor": "MTR-784514",
+    "Zona_Hidrológica": "VALLE_DE_MÉXICO"
+  },
+  {
+    "Folio": "CONA240801004",
+    "Nombre_Usuario": "MARTHA RODRIGUEZ",
+    "Direccion_Predio": "PRIVADA MANANTIAL #78, QUERÉTARO, QRO",
+    "Periodo_Facturado": "15/Jun/2024 - 15/Jul/2024",
+    "Monto_a_Pagar": 215.30,
+    "Fecha_Limite_Pago": "2024-08-30",
+    "Consumo_m3": 18,
+    "Tipo_Servicio": "DOMÉSTICO",
+    "Detalle_Consumo_m3": [
+      { "periodo": "2024-06", "consumo": 8 },
+      { "periodo": "2024-07", "consumo": 10 }
+    ],
+    "Medidor": "MTR-784515",
+    "Zona_Hidrológica": "PANUCO"
+  },
+  {
+    "Folio": "CONA240801005",
+    "Nombre_Usuario": "AGRICOLA EL SEMBRADOR SC",
+    "Direccion_Predio": "EJIDO SAN MIGUEL, IRAPUATO, GTO",
+    "Periodo_Facturado": "01/May/2024 - 31/Jul/2024",
+    "Monto_a_Pagar": 8450.20,
+    "Fecha_Limite_Pago": "2024-09-10",
+    "Consumo_m3": 85000,
+    "Tipo_Servicio": "AGRÍCOLA",
+    "Detalle_Consumo_m3": [
+      { "periodo": "2024-05", "consumo": 28000 },
+      { "periodo": "2024-06", "consumo": 30000 },
+      { "periodo": "2024-07", "consumo": 27000 }
+    ],
+    "Medidor": "MTR-784516",
+    "Zona_Hidrológica": "LERMA_SANTIAGO"
+  }
+]

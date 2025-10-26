@@ -1,0 +1,76 @@
+[
+  {
+    "Folio": "TLX240801001",
+    "Nombre_Cliente": "FERNANDO CASTILLO",
+    "Direccion_Servicio": "AV. REFORMA #234, CDMX",
+    "Periodo_Facturado": "01/Ago/2024 - 31/Ago/2024",
+    "Monto_a_Pagar": 599.00,
+    "Fecha_Limite_Pago": "2024-09-15",
+    "Plan_Contratado": "INTERNET TOTAL 100 MBPS + TELEFONÍA ILIMITADA",
+    "Detalle_Servicios": [
+      { "servicio": "Internet 100 Mbps", "costo": 399.00 },
+      { "servicio": "Telefonía Ilimitada", "costo": 150.00 },
+      { "servicio": "Renta Mensual Módem", "costo": 50.00 }
+    ],
+    "Equipo_Adicional": "Módem WiFi 6"
+  },
+  {
+    "Folio": "TLX240801002",
+    "Nombre_Cliente": "LAURA MENDOZA",
+    "Direccion_Servicio": "CALLE NARANJO #45, GUADALAJARA, JAL",
+    "Periodo_Facturado": "01/Ago/2024 - 31/Ago/2024",
+    "Monto_a_Pagar": 899.00,
+    "Fecha_Limite_Pago": "2024-09-20",
+    "Plan_Contratado": "PAQUETE INFINITUM 200 MBPS + TV + TEL",
+    "Detalle_Servicios": [
+      { "servicio": "Internet 200 Mbps", "costo": 499.00 },
+      { "servicio": "Televisión por Cable", "costo": 250.00 },
+      { "servicio": "Telefonía Ilimitada", "costo": 150.00 }
+    ],
+    "Equipo_Adicional": "Decodificador TV + Módem"
+  },
+  {
+    "Folio": "TLX240801003",
+    "Nombre_Cliente": "EMPRESAS CONECTADAS SA DE CV",
+    "Direccion_Servicio": "BLVD. TECNOLÓGICO #789, MONTERREY, NL",
+    "Periodo_Facturado": "01/Ago/2024 - 31/Ago/2024",
+    "Monto_a_Pagar": 2450.00,
+    "Fecha_Limite_Pago": "2024-09-10",
+    "Plan_Contratado": "INTERNET EMPRESARIAL 500 MBPS + LÍNEAS TEL",
+    "Detalle_Servicios": [
+      { "servicio": "Internet Empresarial 500 Mbps", "costo": 1800.00 },
+      { "servicio": "4 Líneas Telefónicas", "costo": 400.00 },
+      { "servicio": "Servicio Técnico Prioritario", "costo": 250.00 }
+    ],
+    "Equipo_Adicional": "Router Empresarial + Switch"
+  },
+  {
+    "Folio": "TLX240801004",
+    "Nombre_Cliente": "ANTONIO JIMENEZ",
+    "Direccion_Servicio": "PRIVADA FLORIDA #12, PUEBLA, PUE",
+    "Periodo_Facturado": "01/Ago/2024 - 31/Ago/2024",
+    "Monto_a_Pagar": 349.00,
+    "Fecha_Limite_Pago": "2024-09-25",
+    "Plan_Contratado": "INTERNET BÁSICO 50 MBPS",
+    "Detalle_Servicios": [
+      { "servicio": "Internet 50 Mbps", "costo": 299.00 },
+      { "servicio": "Renta Mensual Módem", "costo": 50.00 }
+    ],
+    "Equipo_Adicional": "Módem Básico"
+  },
+  {
+    "Folio": "TLX240801005",
+    "Nombre_Cliente": "ISABEL VARGAS",
+    "Direccion_Servicio": "AV. CENTRAL #567, CANCÚN, QR",
+    "Periodo_Facturado": "01/Ago/2024 - 31/Ago/2024",
+    "Monto_a_Pagar": 749.00,
+    "Fecha_Limite_Pago": "2024-09-18",
+    "Plan_Contratado": "TRIPLE PLAY 100 MBPS + TV + TEL",
+    "Detalle_Servicios": [
+      { "servicio": "Internet 100 Mbps", "costo": 399.00 },
+      { "servicio": "Televisión con 120 Canales", "costo": 200.00 },
+      { "servicio": "Telefonía Ilimitada", "costo": 150.00 }
+    ],
+    "Equipo_Adicional": "2 Decodificadores TV + Módem"
+  }
+]
